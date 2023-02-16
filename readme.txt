@@ -15,3 +15,5 @@ STRIPE_CANCEL_URL="https://<yourdomain>/cancel"
 
 Note: It can be domain or subdomain. It has to be from where you
 are publishing your website.
+
+5- Run -composer install- from terminal to create vendor folder with libraries.
