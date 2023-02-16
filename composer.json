@@ -1,0 +1,14 @@
+{
+    "name": "ramon/crown-clothing-php",
+    "description": "php files to connect Stripe API with Crown Clothing Client React App.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ramon Cott"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^10.5",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
