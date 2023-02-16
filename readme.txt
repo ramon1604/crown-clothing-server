@@ -1,7 +1,7 @@
 Installation
 ------------
 
-IMPORTANT: CODE PROVIDED FOR LINUX/MAX PLATFORMS. NOT WINDOWS
+IMPORTANT: CODE PROVIDED FOR LINUX/MAC PLATFORMS. NOT WINDOWS
 
 1- Create php folder in domain root.
 2- Copy all files to php folder
